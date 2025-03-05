@@ -24,3 +24,4 @@ Fix bug in feature X
 Optimize loop
 Improve performance
 Update API endpoint
+Add test cases
