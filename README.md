@@ -22,3 +22,4 @@ Fix bug in feature X
 Rewrite function Y
 Fix bug in feature X
 Optimize loop
+Improve performance
