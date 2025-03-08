@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Improve logging
 Update dependencies
 Fix bug in feature X
+Change theme color
